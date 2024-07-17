@@ -1,6 +1,6 @@
 # Uber_analysis
  
-https://colab.research.google.com/drive/1a9WXL-7TEI98nuPSRCwM6PfBT01jFV7W#scrollTo=CfyBkvzwtGyW
+https://colab.research.google.com/drive/12qxLzNs0n35CCp4drqeonI-1KLwTBn-c?usp=sharing
 
 The data has been arranged and analysis by this 
 
